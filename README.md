@@ -61,7 +61,7 @@ vulnerability without an exact software version match.
 ## Key Finding
 
 One public-facing asset a VPN login portal had no firewall protection,
-while every other system belonging to the organisation sat behind enterprise
+while every other system belonging to the organization sat behind enterprise
 security solutions. Think of it as every entrance to a building having a
 security guard except one, which is left completely open.
 
